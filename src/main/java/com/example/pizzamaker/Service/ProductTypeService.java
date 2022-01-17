@@ -10,9 +10,9 @@ public interface ProductTypeService {
 
     List<ProductType> readAll();
 
-    void create (ProductType productType);
+    void create(ProductType productType);
 
-    ProductType update (int id, ProductType productType);
+    ProductType update(int id, ProductType productType);
 
-    void delete (int id);
+    void delete(int id);
 }

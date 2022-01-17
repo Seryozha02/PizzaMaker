@@ -1,2 +1,4 @@
-package com.example.pizzamaker.controller;public class IngredientController {
+package com.example.pizzamaker.controller;
+
+public class IngredientController {
 }
